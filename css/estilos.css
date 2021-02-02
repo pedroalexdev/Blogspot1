@@ -1,6 +1,6 @@
 body
 {
-    color:blue;
+    color:#333;
     font-family: "arial";
     padding: 1mm;
     text-align: center;
@@ -9,4 +9,11 @@ body
 {
  color: brown;
  font-family: 'Courier New', Courier, monospace;
+}
+
+.final 
+{
+    font-style: normal;
+    color:darkblue;
+    box-shadow: darkblue;
 }
