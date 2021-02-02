@@ -5,3 +5,8 @@ body
     padding: 1mm;
     text-align: center;
 }
+.titulo
+{
+ color: brown;
+ font-family: 'Courier New', Courier, monospace;
+}
